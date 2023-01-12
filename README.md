@@ -1,3 +1,5 @@
+![couverture-facebook-developer](https://user-images.githubusercontent.com/64777337/212191218-4e8fc54d-48d5-471f-9039-2245f74c2eb6.jpg)
+
 <h1 align="center">Hi 👋, I'm Dhia Eddine Bouslimi</h1>
 <h3 align="center">i have a desire to learn more about programming</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/tags/coding-gif">
