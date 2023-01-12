@@ -1,4 +1,4 @@
-![couverture-facebook-developer](https://user-images.githubusercontent.com/64777337/212191218-4e8fc54d-48d5-471f-9039-2245f74c2eb6.jpg)
+![informatique](https://user-images.githubusercontent.com/64777337/212191842-b0d58a63-fe7e-4cc6-ab44-04b3d6b27693.jpg)
 
 <h1 align="center">Hi 👋, I'm Dhia Eddine Bouslimi</h1>
 <h3 align="center">i have a desire to learn more about programming</h3>
